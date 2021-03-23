@@ -3,4 +3,5 @@
 
 
 ## 图床工具
-[repo-image-hosting](https://github.com/hezhizheng/repo-image-hosting)
+Go： [repo-image-hosting](https://github.com/hezhizheng/repo-image-hosting)
+PHP：[repo-storage](https://github.com/hezhizheng/repo-storage)
